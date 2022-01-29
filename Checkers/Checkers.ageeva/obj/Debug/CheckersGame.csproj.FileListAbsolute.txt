@@ -1,0 +1,10 @@
+D:\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.exe.config
+D:\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.exe
+D:\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.pdb
+D:\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.AssemblyReference.cache
+D:\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.Form1.resources
+D:\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.Properties.Resources.resources
+D:\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.GenerateResource.cache
+D:\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.CoreCompileInputs.cache
+D:\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.exe
+D:\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.pdb
